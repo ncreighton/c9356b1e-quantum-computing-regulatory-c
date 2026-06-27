@@ -1,2 +1,41 @@
-# c9356b1e-quantum-computing-regulatory-c
-Industry regulation tracker, audit prep, certification expiry, and gap analysis. Never miss a compliance deadline or audit requirement.
+# Quantum Computing Regulatory Compliance Checklist Notion Template
+
+> Notion Template for Quantum Computing
+
+spending hours building a system before you can actually use it costs you real money. This Notion template pays for itself in one use.
+
+Pre-built databases, views, and formula fields — ready to duplicate and use.
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | ✅ | ✅ |
+| Standard views | ✅ | ✅ |
+| Sample data | ✅ | ✅ |
+| Advanced automations | ❌ | ✅ |
+| Custom formulas | ❌ | ✅ |
+| Multiple databases | ❌ | ✅ |
+| Dashboard views | ❌ | ✅ |
+| Lifetime updates | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$39.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/dRm3cvfXx9Mw2hi47qcZd13)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
